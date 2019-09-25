@@ -19,6 +19,9 @@ div {
     text-align: center;
     padding: 8px;
 }
+img#foto{
+    margin-top: 10px;
+}
 footer{
     color: white;
     text-align: center;
